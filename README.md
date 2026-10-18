@@ -18,11 +18,13 @@ Movavi Video Editor · MoggyDay · 27.0 · v27.0.1
 
 MoggyDay keeps one stable URL for Movavi Video Editor: EN / RU. Movavi Video Editor on Windows 10/11 x64. 121 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Download on the site:** [EN](https://moggydayprogram.com/en/programs/movavi-video-editor) · [RU](https://moggydayprogram.com/programs/movavi-video-editor)
+
 ## Download
 
 1. Open [Movavi Video Editor EN](https://moggydayprogram.com/en/programs/movavi-video-editor) or [Movavi Video Editor RU](https://moggydayprogram.com/programs/movavi-video-editor).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Press **Download** on that card. The file is only on moggydayprogram.com — not in this repo.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
